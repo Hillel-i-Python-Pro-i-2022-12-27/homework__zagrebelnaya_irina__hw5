@@ -1,6 +1,5 @@
-## 📝Homework 4
-Simple code with simple logic in a Docker container using random name generation [Faker](https://pypi.org/search/?q=faker).
-Displays the student's name with grade and description. 
+## 📝Homework 5
+
 ### ▶️Run
 Run homework without docker.
 ```shell
