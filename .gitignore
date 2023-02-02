@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
+files_input/*
+!files_input/.gitkeep
+files_output/*
+!files_output/.gitkeep
